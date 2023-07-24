@@ -38,3 +38,7 @@ mybatis:
 server:
   servlet:
     context-path: /community
+
+community:
+  path:
+    domain: http://localhost:8080
